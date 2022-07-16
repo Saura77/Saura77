@@ -10,15 +10,15 @@ Mi nombre es Nicolás Saurina, estudiante de 4to año en Ingeniería en Sistemas
 
 Mi stack :computer:
 
-> Java 
-> Spring/JPA
-> Ruby
-> Rails
-> Node JS
-> React 
-> C++
+- Java 
+- Spring/JPA
+- Ruby
+- Rails
+- Node JS
+- React 
+- C++
 
 Contacto :envelope:
 
-> Gmail: nicosaurina7@gmail.com
-> Linkedin: https://www.linkedin.com/in/nicol%C3%A1s-saurina-b91910228/
+- Gmail: nicosaurina7@gmail.com
+- Linkedin: https://www.linkedin.com/in/nicol%C3%A1s-saurina-b91910228/
