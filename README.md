@@ -16,7 +16,7 @@ Mi stack :computer:
 - Rails
 - Node JS
 - React 
-- C++
+- C++/C#
 
 Contacto :envelope:
 
