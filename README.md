@@ -1,21 +1,19 @@
 Hola! 👋
 
-Mi nombre es Nicolás Saurina, estudiante de 5to año en Ingeniería en Sistemas. 
+Mi nombre es Nicolás Saurina, graduado de la carrera de Ingeniería en Sistemas de Información. 
 
-- :books: Estudiante de la Universidad Tecnológica Nacional - FRM.
+- :books: Recibido en Universidad Tecnológica Nacional - FRM.
 - 👯 Buscando ampliar mis conocimientos de programación. 
 - :earth_americas: Mendoza, Argentina. 
 
 
 Mi stack :computer:
 
+- C#
+- .NET Core / .NET Framework / ASP.NET
 - Java 
 - Spring/JPA
-- Ruby
-- Rails
-- Node JS
 - React 
-- C++/C#
 
 Contacto :envelope:
 
